@@ -10,12 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <span id="blah" style="visible:0">
 askjASAKSJFHASf
-ASKJFHASKFJAHSFKJA
-
-ASKJFHASJKFHA
-
-ASFKJHAFKJH
-</span>
+ASKJFHASKFJAHSFKJA</span>
 
 ```markdown
 Syntax highlighted code block
